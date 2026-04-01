@@ -2,7 +2,7 @@
 
 ### Full Stack Python Developer | Algorithmic Trader | GenAI & Cybersecurity Enthusiast
 
-I am a professional software engineer and an alumnus of **IIT Madras**. My expertise lies at the intersection of high-performance web applications, automated trading systems, and robust cybersecurity frameworks. I specialize in building scalable solutions using the Python ecosystem and cutting-edge AI technologies.
+I am a professional software engineer and bachlor's of **IIT Madras** (ongoing). My expertise lies at the intersection of high-performance web applications, automated trading systems, and robust cybersecurity frameworks. I specialize in building scalable solutions using the Python ecosystem and cutting-edge AI technologies.
 
 ---
 
@@ -10,7 +10,7 @@ I am a professional software engineer and an alumnus of **IIT Madras**. My exper
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | Python, Django, FastAPI, Node.js |
+| **Backend** | Python, FastAPI, Django, Node.js |
 | **AI / ML** | Generative AI, LangChain, RAG, Vector Databases (Pinecone/Milvus) |
 | **Trading** | Algorithmic Trading (Nifty/Bank Nifty), WebSockets, Technical Indicators |
 | **Cybersecurity** | Ethical Hacking, Network Security, OSINT, CPH (In Progress) |
@@ -27,9 +27,6 @@ Developed a high-frequency trading bot for Nifty and Bank Nifty options. It util
 ### 🧠 GenAI & RAG Pipelines
 Architected Retrieval-Augmented Generation (RAG) systems using LangChain and Vector Databases to provide contextual intelligence for complex datasets.
 
-### 🛡️ Railway Monitoring AI
-Designed a technical model specifically for detecting train springs in railway monitoring systems, optimizing maintenance through computer vision.
-
 ### ⛓️ Blockchain Infrastructure
 Experience in deploying and managing Bitcoin full nodes and analyzing Ethereum network distributions for decentralized health monitoring.
 
@@ -38,13 +35,12 @@ Experience in deploying and managing Bitcoin full nodes and analyzing Ethereum n
 ## 📊 What I'm Up To
 - 🔭 **Currently working at:** Code Allen.
 - ⚡ **Fun Fact:** I balance the logical rigor of Cybersecurity with the high-stakes volatility of Algorithmic Trading.
-- 🌱 **Learning:** Deepening my knowledge in Neuropsychology to understand cognitive control in decision-making.
 
 ---
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [Your Profile Link Here]
-- **GitHub:** [Your Profile Link Here]
+- **LinkedIn:** _
+- **GitHub:** https://github.com/Neeraj-prajapat/
 
 *"Building secure, intelligent, and automated futures."*
