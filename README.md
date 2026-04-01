@@ -33,7 +33,7 @@ Experience in deploying and managing Bitcoin full nodes and analyzing Ethereum n
 ---
 
 ## 📊 What I'm Up To
-- 🔭 **Currently working at:** Code Allen.
+- 🔭 **Currently working at:** CodeElan Technologies.
 - ⚡ **Fun Fact:** I balance the logical rigor of Cybersecurity with the high-stakes volatility of Algorithmic Trading.
 
 ---
