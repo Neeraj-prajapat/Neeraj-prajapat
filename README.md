@@ -1,52 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Neeraj 👋 
 
-<!--
-**Neeraj-prajapat/Neeraj-prajapat** 
+### Full Stack Python Developer | Algorithmic Trader | GenAI & Cybersecurity Enthusiast
 
-- 🔭 I’m currently working in a software 
-- 🌱 I’m currently learning backed and databasecompany
-- 👯 I’m looking to collaborate on algos traders
-- 🤔 I’m looking for help with in algo trading
-- 💬 Ask me about trading to write algos
-- 📫 How to reach me: linked, github
-- 😄 Pronouns: Neeraj
-- ⚡ Fun fact: Developer and Trader
--->
-Neeraj Prajapat - Full Stack Developer
-Welcome to my GitHub profile! I'm Neeraj, a passionate full-stack developer constantly exploring new technologies and creating innovative projects. I specialize in developing end-to-end web applications and am always eager to improve my skills.
+I am a professional software engineer and an alumnus of **IIT Madras**. My expertise lies at the intersection of high-performance web applications, automated trading systems, and robust cybersecurity frameworks. I specialize in building scalable solutions using the Python ecosystem and cutting-edge AI technologies.
 
-GitHub Student Developer Pack 🎓
-As a recipient of the GitHub Student Developer Pack, I have access to a wide range of tools and resources to help enhance my development process. This pack empowers me to work on new ideas and bring my projects to life with the latest and most powerful technologies.
+---
 
-Some of the benefits from the GitHub Student Developer Pack that I’m utilizing include:
+## 🛠 Tech Stack & Expertise
 
-Cloud services for hosting and testing.
-Development tools for version control, code editors, and team collaboration.
-Software resources for managing databases, building scalable applications, and more.
-Tech Stack 💻
-As a full-stack developer, my skills span across the following technologies:
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | Python, Django, FastAPI, Node.js |
+| **AI / ML** | Generative AI, LangChain, RAG, Vector Databases (Pinecone/Milvus) |
+| **Trading** | Algorithmic Trading (Nifty/Bank Nifty), WebSockets, Technical Indicators |
+| **Cybersecurity** | Ethical Hacking, Network Security, OSINT, CPH (In Progress) |
+| **DevOps & DB** | Docker, Git, PostgreSQL, MongoDB, Redis, Blockchain (Bitcoin/Ethereum Nodes) |
+| **Frontend** | React.js, Tailwind CSS, JavaScript (ES6+) |
 
-Frontend:
-HTML5, CSS3, JavaScript (ES6+)
-React.js, Bootstrap
-Backend:
-Node.js, Express.js
-RESTful APIs
-Databases:
-MongoDB, MySQL
-DevOps:
-Git, GitHub
-Docker, Heroku
-Other Tools:
-VSCode, Postman, Figma
-Projects 🚀
-Some of my notable projects include:
+---
 
-E-commerce Website: A fully functional e-commerce platform for selling product accessories, with features like shopping carts, payment gateways, and user authentication.
-Portfolio Website: My personal portfolio to showcase my skills, experience, and projects.
-Algorithmic Trading System: An algorithm-based trading system that automates trading decisions and strategies.
-Get in Touch 📫
-Feel free to explore my repositories or get in touch if you'd like to collaborate on exciting projects!
+## 🚀 Key Projects
 
-LinkedIn: Connect with me
-GitHub: Visit my GitHub
+### 📈 Advanced Algorithmic Trading System
+Developed a high-frequency trading bot for Nifty and Bank Nifty options. It utilizes real-time WebSockets and custom indicators to automate decision-making and execution.
+
+### 🧠 GenAI & RAG Pipelines
+Architected Retrieval-Augmented Generation (RAG) systems using LangChain and Vector Databases to provide contextual intelligence for complex datasets.
+
+### 🛡️ Railway Monitoring AI
+Designed a technical model specifically for detecting train springs in railway monitoring systems, optimizing maintenance through computer vision.
+
+### ⛓️ Blockchain Infrastructure
+Experience in deploying and managing Bitcoin full nodes and analyzing Ethereum network distributions for decentralized health monitoring.
+
+---
+
+## 📊 What I'm Up To
+- 🔭 **Currently working at:** Code Allen.
+- ⚡ **Fun Fact:** I balance the logical rigor of Cybersecurity with the high-stakes volatility of Algorithmic Trading.
+- 🌱 **Learning:** Deepening my knowledge in Neuropsychology to understand cognitive control in decision-making.
+
+---
+
+## 📬 Connect With Me
+
+- **LinkedIn:** [Your Profile Link Here]
+- **GitHub:** [Your Profile Link Here]
+
+*"Building secure, intelligent, and automated futures."*
