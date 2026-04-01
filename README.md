@@ -11,11 +11,11 @@ I am a professional software engineer and bachlor's of **IIT Madras** (ongoing).
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Backend** | Python, FastAPI, Django, Node.js |
-| **AI / ML** | Generative AI, LangChain, RAG, Vector Databases (Pinecone/Milvus) |
+| **AI / ML** | Generative AI, LangChain, RAG, Vector Databases (pgvector, qdrant) |
 | **Trading** | Algorithmic Trading (Nifty/Bank Nifty), WebSockets, Technical Indicators |
-| **Cybersecurity** | Ethical Hacking, Network Security, OSINT, CPH (In Progress) |
+| **Cybersecurity** | Ethical Hacking, Network Security, CCNA(basic) OSINT, Redamon CPH (In Progress) |
 | **DevOps & DB** | Docker, Git, PostgreSQL, MongoDB, Redis, Blockchain (Bitcoin/Ethereum Nodes) |
-| **Frontend** | React.js, Tailwind CSS, JavaScript (ES6+) |
+| **Frontend** | React.js, Next.js, Bootstrap, Tailwind CSS, JavaScript (ES6+) |
 
 ---
 
